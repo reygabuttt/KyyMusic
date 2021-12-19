@@ -27,7 +27,7 @@ def start_pannel():
     buttons = [
         [
             InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ​", url=f"https://t.me/{GROUP}"),
-            InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url=f"https://t.me/ryinaja"),
+            InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url=f"https://t.me/{CHANNEL}"),
         ],
         [
             InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅ​ 📚", url="https://telegra.ph/ҡʏʏ-ᴇx-12-15"),
@@ -47,7 +47,7 @@ pstart_markup = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(text="✨ sᴜᴘᴘᴏʀᴛ​", url="https://t.me/{GROUP}"),
-            InlineKeyboardButton("✨ ᴏᴡɴᴇʀ", url=f"https://t.me/ryinaja"),
+            InlineKeyboardButton("✨ ᴏᴡɴᴇʀ", url=f"https://t.me/{CHANNEL}"),
         ],
         [
             InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅ ​📚", url="https://telegra.ph/ҡʏʏ-ᴇx-12-15"),
